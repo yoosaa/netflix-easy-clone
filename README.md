@@ -1,6 +1,6 @@
 ## frontend
 
-・svelte (svelte + Vite)  
+・Svelte (Svelte + Vite)  
 ・Tailwindcss
 
 ## backend
